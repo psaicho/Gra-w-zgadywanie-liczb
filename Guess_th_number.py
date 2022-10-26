@@ -1,6 +1,6 @@
 import random
 
-random_number = random.randint(1, 100)
+random_number = random.randint(1, 10)
 user_number = 0
 while user_number != random_number:
     try:
